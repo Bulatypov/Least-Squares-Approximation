@@ -1,2 +1,2 @@
 # Least-Squares-Approximation
-Program to calculate least-squares-approximation using matrixes
+Program to calculate regression with least-squares-approximation method using matrixes
